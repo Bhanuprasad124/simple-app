@@ -1,5 +1,5 @@
 {
-  "name": "simple-app",
+  "name": "simple-app1",
   "version": "1.0.0",
   "description": "A very simple Node.js app for Jenkins pipeline testing",
   "main": "index.js",
